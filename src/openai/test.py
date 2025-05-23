@@ -72,7 +72,7 @@ def run_prompts(prompts):
         best_overall = max(results, key=lambda x: x["efficiency"])
 
     
-    print(f"📊 Best overall token efficiency: '{best_overall['prompt']}' | {best_overall['efficiency']:.2f} total tokens per $")
+    print(f"Best overall token efficiency: '{best_overall['prompt']}' | {best_overall['efficiency']:.2f} total tokens per $")
 
 run_prompts(prompts)
 

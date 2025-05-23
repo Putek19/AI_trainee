@@ -1,0 +1,10 @@
+Pytanie 1:
+Które miasto znajduje się na dwóch różnych kontynentach?  
+A. Istambuł  
+B. Kair  
+C. Sankt Petersburg  
+D. Sydney
+Poprawna odpowiedź: A
+Obstawienia: {'A': 1000000, 'B': 0, 'C': 0, 'D': 0}
+Stan konta po pytaniu: 1000000 zł
+----------------------------------------
