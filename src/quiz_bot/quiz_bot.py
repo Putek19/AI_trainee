@@ -1,8 +1,8 @@
-import os
-from datetime import datetime
-from openai import AzureOpenAI
-from dotenv import load_dotenv
+import os.path
 import re
+from dotenv import load_dotenv
+from openai import AzureOpenAI
+
 
 load_dotenv()
 
@@ -11,8 +11,8 @@ client = AzureOpenAI(
     azure_endpoint=os.getenv("OPEN_AI_ENDPOINT"),
     api_key=os.getenv("API_OPEN_AI_KEY"),
 )
-model_name = "gpt-4o"
-deployment = "gpt-4o"
+MODEL_NAME = "gpt-4o"
+DEPLOYMENT = "gpt-4o"
 
 chat_prompt_overall_14 = [
     {
@@ -75,7 +75,7 @@ def choose_topic():
         max_tokens=768,
         temperature=1.0,
         top_p=1.0,
-        model=deployment
+        model=DEPLOYMENT
     )
     
     
@@ -101,7 +101,7 @@ def get_question(topic,question_num):
             }
         )
         response = client.chat.completions.create(
-        model=deployment,
+        model=DEPLOYMENT,
         messages=chat_prompt_overall_14,
         temperature=1.0,
         max_tokens=350
@@ -127,7 +127,7 @@ def get_question(topic,question_num):
         )
 
         response = client.chat.completions.create(
-        model=deployment,
+        model=DEPLOYMENT,
         messages=chat_prompt_overall_57,
         temperature=1.0,
         max_tokens=350
@@ -150,7 +150,7 @@ def get_question(topic,question_num):
             }
         )
         response = client.chat.completions.create(
-        model=deployment,
+        model=DEPLOYMENT,
         messages=chat_prompt_overall_8,
         temperature=1.0,
         max_tokens=350

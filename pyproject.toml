@@ -1,0 +1,11 @@
+[project]
+name = "AI_Trainee"
+version = "1.0.0"
+description = "A Python package for AI starter academy."
+requires-python = ">=3.8"
+authors = [
+    {name = "Jakub Nowacki", email = "kubanowaki.kn19@gmail.com"}
+]
+readme = "README.md"
+keywords = ["AI", "machine learning", "deep learning", "Python","trainee"]
+
