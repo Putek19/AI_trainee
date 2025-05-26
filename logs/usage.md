@@ -7,41 +7,41 @@
 
 ### **Ranking najlepszych obrońców w NBA (2023)**
 
-#### 1. **Jaren Jackson Jr. (Memphis Grizzlies)**  
-- **Kluczowe atuty:** Bloki, obrona obręczy, wszechstronność defensywna.  
-- **Nagrody:** Obrońca Roku (2023).  
+#### 1. **Jaren Jackson Jr. (Memphis Grizzlies)**
+- **Kluczowe atuty:** Bloki, obrona obręczy, wszechstronność defensywna.
+- **Nagrody:** Obrońca Roku (2023).
 - Jaren Jackson Jr. jest sercem defensywy Grizzlies i wyróżnia się jako czołowy rim protector w lidze. Jego zdolność do zamykania stref w pobliżu kosza oraz mobilność w obronie na obwodzie czynią go absolutnym liderem defensywy.
 
 ---
 
-#### 2. **Marcus Smart (Memphis Grizzlies)**  
-- **Kluczowe atuty:** Obrona na obwodzie, intensywność, IQ defensywne.  
-- **Nagrody:** Obrońca Roku (2022).  
+#### 2. **Marcus Smart (Memphis Grizzlies)**
+- **Kluczowe atuty:** Obrona na obwodzie, intensywność, IQ defensywne.
+- **Nagrody:** Obrońca Roku (2022).
 - Marcus Smart to prawdziwy lider defensywny, który potrafi ograniczać najlepszych rozgrywających rywali. Jego zaciętość oraz waleczność w obronie czynią go jednym z najbardziej wszechstronnych obrońców na obwodzie.
 
 ---
 
-#### 3. **Giannis Antetokounmpo (Milwaukee Bucks)**  
-- **Kluczowe atuty:** Wszechstronność defensywna, zdolność do switchowania, bloki.  
-- **Nagrody:** Obrońca Roku (2020).  
+#### 3. **Giannis Antetokounmpo (Milwaukee Bucks)**
+- **Kluczowe atuty:** Wszechstronność defensywna, zdolność do switchowania, bloki.
+- **Nagrody:** Obrońca Roku (2020).
 - Giannis, dzięki swojemu zasięgowi i atletyzmowi, jest jednym z najbardziej dominujących obrońców w lidze. Potrafi bronić zarówno na obwodzie, jak i pod koszem, co czyni go wyjątkowym defensywnym graczem dla Bucks.
 
 ---
 
-#### 4. **Jrue Holiday (Boston Celtics)**  
-- **Kluczowe atuty:** Obrona na piłce, lider obwodowej defensywy, neutralizacja najlepszych rozgrywających.  
+#### 4. **Jrue Holiday (Boston Celtics)**
+- **Kluczowe atuty:** Obrona na piłce, lider obwodowej defensywy, neutralizacja najlepszych rozgrywających.
 - Jrue Holiday jest uznawany za jednego z najlepszych defensywnych rozgrywających w NBA. Jego zdolność do wywierania presji na rywalach oraz umiejętność przechwytów są fundamentalne dla każdej drużyny, w której gra.
 
 ---
 
-#### 5. **Bam Adebayo (Miami Heat)**  
-- **Kluczowe atuty:** Wszechstronność defensywna, zdolność do obrony pick-and-roll, siła fizyczna.  
+#### 5. **Bam Adebayo (Miami Heat)**
+- **Kluczowe atuty:** Wszechstronność defensywna, zdolność do obrony pick-and-roll, siła fizyczna.
 - Bam Adebayo jest esencją współczesnego defensora w NBA. Potrafi bronić zarówno graczy obwodowych, jak i podkoszowych. Jego wszechstronność i zdolność do switchowania czynią go kluczowym graczem Heat.
 
 ---
 
-#### 6. **Anthony Davis (Los Angeles Lakers)**  
-- **Kluczowe atuty:** Rim protection, mobilność defensywna, gra na pick-and-roll.  
+#### 6. **Anthony Davis (Los Angeles Lakers)**
+- **Kluczowe atuty:** Rim protection, mobilność defensywna, gra na pick-and-roll.
 - AD jest jednym z najlepszych rim protectorów i obrońców w NBA, a
 ###Prompt tokens 32
 ###Response tokens 768
@@ -56,7 +56,7 @@
 ### **1. Lionel Messi**
 - **Klub:** FC Barcelona (2004–2021)
 - **Gole w LaLidze:** 474 (rekord wszech czasów)
-- Ośmiokrotny król strzelców LaLigi. Wybitny snajper, ale także kreator gry z ogromną liczbą asyst. Jego osiągnięcia i wpływ na Barcelonę są bezprecedensowe. Siedmiokrotny zdobywca Złotej Piłki (m.in. za okres gry w LaLidze). 
+- Ośmiokrotny król strzelców LaLigi. Wybitny snajper, ale także kreator gry z ogromną liczbą asyst. Jego osiągnięcia i wpływ na Barcelonę są bezprecedensowe. Siedmiokrotny zdobywca Złotej Piłki (m.in. za okres gry w LaLidze).
 
 ---
 
@@ -91,7 +91,7 @@
 ### **6. Hugo Sánchez**
 - **Kluby:** Atlético Madryt, Real Madryt, Rayo Vallecano (1981–1994)
 - **Gole w LaLidze:** 234
-- Czterokrotny król strzelców LaLigi z Realem Madryt. Sławny z wymyślnych bramek (przewrotki!) oraz znakomitej techniki. 
+- Czterokrotny król strzelców LaLigi z Realem Madryt. Sławny z wymyślnych bramek (przewrotki!) oraz znakomitej techniki.
 
 ---
 
