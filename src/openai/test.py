@@ -24,7 +24,7 @@ def log_structure(prompt, response, usage, cost):
         f.write(f"###Response: {response}\n")
         f.write(f"###Prompt tokens {usage.prompt_tokens}\n")
         f.write(f"###Response tokens {usage.completion_tokens}\n\n")
-        f.write(f"###Total tokens {cost}\n")
+        f.write(f"###Total cost {cost}\n")
 
 
 prompts = [

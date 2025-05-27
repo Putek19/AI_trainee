@@ -1,2 +1,9 @@
 openai
 dotenv
+jupyter
+ipykernel
+azure-search-documents
+azure-identity
+pypdf
+langchain
+pandas
