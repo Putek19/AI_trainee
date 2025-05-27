@@ -5,5 +5,8 @@ ipykernel
 azure-search-documents
 azure-identity
 pypdf
-langchain
+langchain==0.3.24
 pandas
+langchain-openai==0.3.18
+langchain-azure-ai==0.1.2
+langchain-community==0.3.23
