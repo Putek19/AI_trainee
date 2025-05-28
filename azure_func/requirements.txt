@@ -1,0 +1,17 @@
+# DO NOT include azure-functions-worker in this file
+# The Python Worker is managed by Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+azure-functions
+python-dotenv>=1.0.0
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-openai>=0.0.2
+azure-search-documents>=11.4.0
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.1
+azure-identity
+pytest
+pytest-cov
+requests

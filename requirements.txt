@@ -10,3 +10,4 @@ pandas
 langchain-openai==0.3.18
 langchain-azure-ai==0.1.2
 langchain-community==0.3.23
+azure-functions == 1.23.0
