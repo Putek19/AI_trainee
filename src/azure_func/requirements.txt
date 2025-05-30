@@ -3,15 +3,12 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions
-python-dotenv>=1.0.0
-langchain>=0.1.0
-langchain-community>=0.0.10
-langchain-openai>=0.0.2
-azure-search-documents>=11.4.0
-pytest>=7.4.0
-pytest-cov>=4.1.0
-pytest-mock>=3.11.1
+langchain-openai==0.3.18
+langchain-azure-ai==0.1.2
+langchain-community==0.3.23
+azure-functions == 1.23.0
+python-dotenv==1.0.1
+azure-search-documents
 azure-identity
-pytest
-pytest-cov
-requests
+pypdf
+langchain==0.3.24

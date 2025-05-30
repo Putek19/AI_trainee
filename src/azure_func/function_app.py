@@ -8,7 +8,7 @@ from pathlib import Path
 root_dir = Path(__file__).parent.parent
 sys.path.append(str(root_dir))
 
-from src.RAG.ai_search_langchain import RAGSystem
+from RAG.ai_search_langchain import RAGSystem
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
